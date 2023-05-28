@@ -1,6 +1,6 @@
 ## Oi me chamo Julio !👋
 
-Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnoligia e computação, Sou peregrino no universo da programação, quanto mais eu aprendo mais eu passo raiva mas não consigo viver sem isso 😍😅😎
+Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnologia e computação, Sou peregrino no universo da programação, quanto mais eu aprendo mais eu passo raiva mas não consigo viver sem isso 😍😅😎
 <p align="right">
   <img src="https://media.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif" width="350">
 </p>
