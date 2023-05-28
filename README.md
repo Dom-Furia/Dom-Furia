@@ -21,8 +21,8 @@ Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnoligia e comp
 
 <div>
 <a href="https://github.com/Dom-Furia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dom-Furia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Furia&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dom-Furia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Furia&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
   
   
