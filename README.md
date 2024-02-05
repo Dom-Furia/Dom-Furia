@@ -17,7 +17,9 @@ Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnologia e comp
 
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src = "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src = "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968267.png
+" width="40" height="40"/>
+
 
 <div>
 <a href="https://github.com/Dom-Furia">
