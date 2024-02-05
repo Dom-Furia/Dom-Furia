@@ -17,10 +17,7 @@ Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnologia e comp
 
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src = "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968267.png" width="40" height="40" /> <img src="![image](https://github.com/Dom-Furia/Dom-Furia/assets/134759649/78a972a0-d0ad-4d3e-bd47-55e577cc47b4)
-" width="40" height="40" /> 
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src = "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968267.png" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40" /> 
 
 
 <div>
