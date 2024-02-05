@@ -10,7 +10,7 @@ Tenho 29 anos, moro em Varzea - Grande/MT e sou apaixonado por tecnologia e comp
 
 👨‍🎓 Estudante de Engenharia de computação - UFMT
 
-🤓 Estou em busca de aprendizado na area de programação Back-end
+🤓 Estou em busca de aprendizado e de uma oportunidade  na area de desenvolvimento Back-end
 
 📫 Emial para contato: juliocesar.ti.2015@hotmail.com
 
